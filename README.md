@@ -17,5 +17,5 @@ pip3 install -r requirements.txt
    
 4. Run script
 ```
-python3 secret_sharing.py
+python3 main.py
 ```
