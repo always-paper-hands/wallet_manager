@@ -10,10 +10,10 @@ pip3 install -r requirements.txt
 ```
 
 2. Fill in the ..data/pks.txt in next format:
-   1 private key
-   2 private key
-   3 private key
-   .....
+- 1 private key
+- 2 private key
+- 3 private key
+- .....
    
 4. Run script
 ```
