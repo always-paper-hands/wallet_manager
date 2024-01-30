@@ -1,6 +1,8 @@
 # Wallet Manager
 Simple tool for creating and managing EVM accounts
-
+2 modules: 
+- Create a batch of seed phrases with 1, 2 and more pairs of address-key 
+- Get public addresses from private keys 
 
 ## Usage
 1. Run the following command in terminal to install necessary Python packages
