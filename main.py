@@ -4,7 +4,8 @@ from termcolor import colored
 
 def main():
     choice = choose_mode()
-    if choice == 'Create a': #kostil
+    print(choice)
+    if choice == 'Create a batch of EVM accounts': 
         WalletCreate().create_evm_account()
     else:
         GetAddresses().addr_from_pks()

@@ -110,4 +110,4 @@ def choose_mode():
         )
     ]
     path = prompt(questions)['prefered_path']
-    return ' '.join(path.split()[:2])
+    return ' '.join(path.split())
